@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u ${{secrets.USERNAME15630935260}} -p ${{secrets.Xxzih0522}} -l 255040344#课程id，默认为心理课的
+        run: python main.py -u ${{secrets.15630935260}} -p ${{secrets.Xxzih0522}} -l 255040344#课程id，默认为心理课的
